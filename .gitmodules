@@ -1,0 +1,42 @@
+[submodule "ASPNET-API/assignment-1"]
+	path = ASPNET-API/assignment-1
+	url = https://github.com/vjohannesb/aspnet-api-asgmt-1.git
+[submodule "ASPNET-MVC/assignment-1"]
+	path = ASPNET-MVC/assignment-1
+	url = https://github.com/vjohannesb/aspnet-mvc-asgmt-1.git
+[submodule "C#/assignment-1"]
+	path = "C#/assignment-1"
+	url = https://github.com/vjohannesb/cs-asgmt-1.git
+[submodule "C#/assignment-2"]
+	path = "C#/assignment-2"
+	url = https://github.com/vjohannesb/cs-asgmt-2.git
+[submodule "C#/assignment-3"]
+	path = "C#/assignment-3"
+	url = https://github.com/vjohannesb/cs-asgmt-3.git
+[submodule "C#/assignment-4"]
+	path = "C#/assignment-4"
+	url = https://github.com/vjohannesb/cs-asgmt-4.git
+[submodule "C#/assignment-5"]
+	path = "C#/assignment-5"
+	url = https://github.com/vjohannesb/cs-asgmt-5.git
+[submodule "Data-Storage/assignment-1"]
+	path = Data-Storage/assignment-1
+	url = https://github.com/vjohannesb/dotnet-data-storage-1.git
+[submodule "Data-Storage/assignment-2"]
+	path = Data-Storage/assignment-2
+	url = https://github.com/vjohannesb/dotnet-data-storage-2.git
+[submodule "HTML-CSS/assignment-1"]
+	path = HTML-CSS/assignment-1
+	url = https://github.com/vjohannesb/html-css-asgmt-1.git
+[submodule "HTML-CSS/assignment-2"]
+	path = HTML-CSS/assignment-2
+	url = https://github.com/vjohannesb/html-css-asgmt-2.git
+[submodule "JavaScript/assignment-1"]
+	path = JavaScript/assignment-1
+	url = https://github.com/vjohannesb/js-asgmt-1.git
+[submodule "JavaScript/assignment-2"]
+	path = JavaScript/assignment-2
+	url = https://github.com/vjohannesb/js-asgmt-2.git
+[submodule "SCRUM/group-assignment"]
+	path = SCRUM/group-assignment
+	url = https://github.com/vjohannesb/scrum-group-asgmt.git/
