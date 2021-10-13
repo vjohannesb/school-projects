@@ -14,6 +14,8 @@
     -   Blazor (+ some JavaScript & jQuery)
     -   ASP&#46;NET Web API (.NET Core)
     -   Azure DevOps
+-   I also designed a quick thing in JSFiddle to add products to the database by connecting to a local API
+    - https://jsfiddle.net/37cjwxd1
 
 ### Pictures from somewhere mid-project
 ![bild](https://user-images.githubusercontent.com/60484937/137163245-1cbd6c00-c754-43f5-aa1c-5d1badbd087b.png)
