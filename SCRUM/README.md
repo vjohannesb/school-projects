@@ -9,12 +9,12 @@
 
 -   Build a working webshop according to an Adobe XD sketch using SCRUM
 -   Utilize sprints
--   In our team, we used:
+-   Frameworks were optional, so in our team, we used:
     -   SQL
     -   Blazor (+ some JavaScript & jQuery)
     -   ASP&#46;NET Web API (.NET Core)
-    -   Azure DevOps
--   I also designed a quick thing in JSFiddle to add products to the database by connecting to a local API
+    -   Azure DevOps for Version Control (git) as well as SCRUM-board
+-   I also did a quick thing in JSFiddle to streamline adding products to the database (connects to local API)
     - https://jsfiddle.net/37cjwxd1
 
 ### Pictures from somewhere mid-project
